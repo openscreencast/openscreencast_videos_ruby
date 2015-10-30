@@ -1,0 +1,63 @@
+1
+00:00:08,000 --> 00:00:11,900
+Hallo - Ruby - Hallo Welt
+
+2
+00:00:12,000 --> 00:00:16,900
+Ruby-Quelltextdateien erkennt man an der Dateiendung .rb
+
+3
+00:00:17,000 --> 00:00:23,900
+und koennen mit einfachen Texteditoren veraendert bzw. ueberhaupt erst erstellt und gespeichert werden
+
+4
+00:00:24,000 --> 00:00:28,900
+Die hallowelt.rb-Datei oeffne ich mit einem Doppelklick
+
+5
+00:00:29,000 --> 00:00:33,900
+so wird die Datei mit dem Standardeditor gedit geoeffnet
+
+6
+00:00:34,000 --> 00:00:39,900
+puts "Hallo Welt" sorgt fuer die Ausgabe Hallo Welt
+
+7
+00:00:40,000 --> 00:00:58,900
+Durch ruby hallowelt.rb werden die Befehle in der Datei durch den Ruby-Interpreter ausgefuehrt
+
+8
+00:00:59,000 --> 00:01:10,900
+print ist ebenfalls eine Ausgabeanweisung
+
+9
+00:01:11,000 --> 00:01:17,900
+Speichern und Ausfuehren
+
+10
+00:01:18,000 --> 00:01:38,900
+Die She-bang-Zeile ganz oben, also #!/usr/bin/env ruby
+
+11
+00:01:39,000 --> 00:01:47,900
+und das Zugriffsrecht Datei als Programm ausfuehren +x
+
+12
+00:01:48,000 --> 00:01:52,900
+Datei - Eigenschaften und hier das Kreuzchen machen
+
+13
+00:01:53,000 --> 00:01:58,900
+schliessen, machen die Datei ausfuehrbar
+
+14
+00:01:59,000 --> 00:02:17,900
+Diese kann nun mittels ./hallowelt.rb ausgefuehrt werden, vorher noch Speichern
+
+15
+00:02:20,000 --> 00:02:22,900
+Tschau und viel Glueck
+
+16
+00:02:24,000 --> 00:02:24,001
+Dieses Untertitel-Dokument steht unter der Lizenz: http://creativecommons.org/licenses/by/3.0/
